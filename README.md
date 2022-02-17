@@ -1,0 +1,3 @@
+- ¡Hola! Soy Angel Lopez 👀 
+- Estudiante del Front - end ✨✨
+- Actualmente me dedico a estudiar javascript 😎😎💕💕
