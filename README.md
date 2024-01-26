@@ -1,5 +1,5 @@
 # Hi there, I'm Angel Lopez
-<p style="font-size: 1.2rem;"> Some Technologies I use </p>
+<p style="font-size: 2rem; font-family: monospace;"> Some Technologies I use </p>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2;">
   <img style="border-radius: 5px;" width="60px" src="https://www.svgrepo.com/show/349419/javascript.svg" alt="esto es un logo de javascript" />
