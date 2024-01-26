@@ -1,5 +1,5 @@
 # Hi there, I'm Angel Lopez
-<p style="font-weight: bold; font-size: 3remM">I am a frontend developer and I love web technologies.</p>
+<p style="font-weight: bold; font-size: 3remM">I am a frontend developer and I love web technologies. 💻</p>
 <h3 style="font-size: 2rem; font-family: monospace;"> Some Technologies I use </h3>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2;">
